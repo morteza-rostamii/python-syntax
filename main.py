@@ -5,8 +5,9 @@
 import src.mod1 as mod1
 #import subprocess
 
-def run():
-  mod1.main()
+#def run():
+  #mod1.main()
 
-if __name__ == '__main__':
-  run()
+#if __name__ == '__main__':
+  #pass
+  #run()
